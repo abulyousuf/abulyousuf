@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=abulyousuf)
-
 [![Abul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abulyousuf)](https://github.com/abulyousuf/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abulyousuf)](https://github.com/abulyousuf/github-readme-stats)
